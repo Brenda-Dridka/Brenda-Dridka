@@ -1,16 +1,34 @@
-## Hi there 👋
+Brenda Ruiz
+Full Stack Developer | React | Laravel | JavaScript
 
-<!--
-**Brenda-Dridka/Brenda-Dridka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 Desarrolladora Full Stack enfocada en crear aplicaciones web,
+APIs y soluciones para automatización de procesos empresariales.
 
-Here are some ideas to get you started:
+🚀 Actualmente trabajando con:
+• React
+• Laravel
+• JavaScript
+• PHP
+• SQL
+• Node.js
+• Vue.js
+• Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Experiencia en:
+• Desarrollo Full Stack
+• Diseño UI/UX
+• APIs REST
+• Bases de datos SQL
+• Automatización de procesos
+• Deploy y servidores
+• Sistemas internos empresariales
+
+📌 Proyectos destacados:
+• Sistema de control de producción
+• Plataforma de seguimiento de productos
+• Sistemas de RH
+• Micrositios y dashboards
+
+📫 Contacto:
+Email: ...
+LinkedIn: ...
